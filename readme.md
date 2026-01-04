@@ -520,6 +520,17 @@ Project Link: [https://github.com/yourusername/sentiment-analysis](https://githu
 
 ![Settings Page](image-7.png)
 *User preferences, profile management, and system configuration*
+<img width="432" height="529" alt="image" src="https://github.com/user-attachments/assets/8b7fac28-c4a4-468d-ba4c-6e6e64e7e2e0" />
+<img width="713" height="370" alt="image" src="https://github.com/user-attachments/assets/37ea0199-a6f4-462d-bc49-f520b2a95659" />
+<img width="899" height="139" alt="image" src="https://github.com/user-attachments/assets/981fea36-63ec-4e15-8ea9-794736e5470e" />
+<img width="474" height="347" alt="image" src="https://github.com/user-attachments/assets/a2be4399-4d80-4d72-be89-8299202ec48b" />
+<img width="1563" height="1476" alt="output" src="https://github.com/user-attachments/assets/7e625a13-378e-4a15-ac83-f061a5f10e3b" />
+<img width="874" height="213" alt="image" src="https://github.com/user-attachments/assets/bdd33654-f3fc-43d3-8454-b01704b6a491" />
+<img width="589" height="503" alt="image" src="https://github.com/user-attachments/assets/f039d562-1349-40e5-b3b3-6994dbc9013c" />
+<img width="1220" height="472" alt="image" src="https://github.com/user-attachments/assets/3bab0291-3aca-4458-94e8-f5178c34764d" />
+<img width="605" height="223" alt="image" src="https://github.com/user-attachments/assets/60afdcde-f98d-4339-aa5f-934961657167" />
+<img width="452" height="489" alt="image" src="https://github.com/user-attachments/assets/f733e33d-32a4-4454-9e56-cd726533d3ed" />
+<img width="1221" height="438" alt="image" src="https://github.com/user-attachments/assets/fd878667-3bde-4afc-9df6-4c0d2a936b5c" />
 
 </div>
 
